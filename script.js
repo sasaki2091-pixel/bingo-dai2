@@ -31,7 +31,7 @@ function generateBingo() {
   const numbers = generateBingoNumbers();
 
   const img = new Image();
-  img.src = "template.png";
+  img.src = "1771764991338.png";
 
   img.onload = function() {
 
